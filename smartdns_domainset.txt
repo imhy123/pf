@@ -5650,7 +5650,7 @@ twitonmsn.com
 twitpic.com
 twitstat.com
 twittbot.net
-twitter.com
+.twitter.com
 twitter.jp
 twitter4j.org
 twittercounter.com
