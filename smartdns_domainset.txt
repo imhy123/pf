@@ -1466,6 +1466,8 @@ dnset.com
 dnsrd.com
 dnssec.net
 dnvod.tv
+docker.com
+docker.io
 docs.cfw.lbyczf.com
 doctorvoice.org
 documentingreality.com
