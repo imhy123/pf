@@ -1435,6 +1435,8 @@ discuss4u.com
 dish.com
 disk.yandex.com
 disney-plus.net
+disney.api.edge.bamgrid.com
+disney.content.edge.bamgrid.com
 disneyplus.com
 disneyplus.com.ssl.sc.omtrdc.net
 disp.cc
@@ -4414,6 +4416,7 @@ privatetunnel.com
 privatevpn.com
 privoxy.org
 procopytips.com
+prod-static.disney-plus.net
 project-syndicate.org
 prosciana.com
 prosiben.de
